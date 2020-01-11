@@ -13,7 +13,7 @@ setuptools.setup(
 	description="Math parser for simple and compound strings math expressions evaluations",
 	long_description=long_description,
     long_description_content_type="text/markdown",
-    url='',
+    url="https://github.com/carrasquel/pybigparser",
     packages=['pybigparser',],
     license='BSD License',
 	classifiers=[
